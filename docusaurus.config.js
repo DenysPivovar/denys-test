@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Лабораторна робота №2',
-  tagline: 'Півовар Денис, КП-32',
+  title: 'Laboratory work №2',
+  tagline: 'Pivovar Denys, KP-32',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
